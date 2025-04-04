@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.util.Date;
 
 public class Fitxers {
-
+//hola
 	public static void main(String[] args) {
 
 		File file = new File("m3prova");
